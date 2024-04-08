@@ -3,4 +3,6 @@
 	import Hero from "./Hero.svelte";
 </script>
 <Header currentPage="Home"/>
-<Hero />
+<div class="max-w-[1100px] mx-auto">
+    <Hero />
+</div>
