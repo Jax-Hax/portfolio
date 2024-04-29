@@ -4,7 +4,7 @@
 	import WhatWeDo from "./WhatWeDo.svelte";
 </script>
 <Header currentPage="Home"/>
-<div class="max-w-[1100px] mx-auto">
+<div class="max-w-[1100px] mx-auto px-10">
     <Hero />
 	<WhatWeDo />
 </div>

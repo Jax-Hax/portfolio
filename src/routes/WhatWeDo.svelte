@@ -13,24 +13,24 @@
 	line of code is written by hand to ensure the best performance, which helps bring in more
 	customers to your site and bring more revenue to your business. LEARN MORE
 </p>
-<div class="flex">
+<div class="flex gap-3 flex-col md:flex-row">
 	<div>
-		<h1>Mobile-First Design</h1>
-		<p>
+		<h1 class="text-center font-bold text-xl mb-4">Mobile-First Design</h1>
+		<p class="text-center">
 			We start by building your site for mobile viewing, which makes it rank much higher on Google
 			Search.
 		</p>
 	</div>
 	<div>
-		<h1>Fully Responsive</h1>
-		<p>
+		<h1 class="text-center font-bold text-xl mb-4">Fully Responsive</h1>
+		<p class="text-center">
 			Your website will fit all mobile screens sizes, tablets, and desktop sizes so new clients can
 			access your site from anywhere.
 		</p>
 	</div>
 	<div>
-		<h1>Optimization</h1>
-		<p>
+		<h1 class="text-center font-bold text-xl mb-4">Optimization</h1>
+		<p class="text-center">
 			60% of all internet traffic is on mobile devices, so we optimize your mobile to perform their
 			best in search engines.
 		</p>
