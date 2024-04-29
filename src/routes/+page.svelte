@@ -1,5 +1,6 @@
 <script>
-	import Header from "./Header.svelte";
+	import Features from "./Features.svelte";
+import Header from "./Header.svelte";
 	import Hero from "./Hero.svelte";
 	import WhatWeDo from "./WhatWeDo.svelte";
 </script>
@@ -7,4 +8,5 @@
 <div class="max-w-[1100px] mx-auto px-10">
     <Hero />
 	<WhatWeDo />
+<Features />
 </div>

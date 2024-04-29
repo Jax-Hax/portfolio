@@ -16,7 +16,7 @@
 </p>
 <div class="flex gap-3 flex-col md:flex-row">
 	<div class="flex flex-col items-center">
-		<Picture mobileSrc="smartphone.png" alt="mobile first" width=70 height=70 />
+		<Picture mobileSrc="smartphone.png" alt="mobile first" width="70" height="70" />
 		<h1 class="font-bold text-xl mb-4 mt-3">Mobile-First Design</h1>
 		<p class="text-center">
 			We start by building your site for mobile viewing, which makes it rank much higher on Google
@@ -24,7 +24,7 @@
 		</p>
 	</div>
 	<div class="flex flex-col items-center">
-		<Picture mobileSrc="responsive.png" alt="fully responsive" width=70 height=70 />
+		<Picture mobileSrc="responsive.png" alt="fully responsive" width="70" height="70" />
 		<h1 class="font-bold text-xl mb-4 mt-3">Fully Responsive</h1>
 		<p class="text-center">
 			Your website will fit all mobile screens sizes, tablets, and desktop sizes so new clients can
@@ -32,7 +32,7 @@
 		</p>
 	</div>
 	<div class="flex flex-col items-center">
-		<Picture mobileSrc="coding.png" alt="optimization" width=70 height=70 />
+		<Picture mobileSrc="coding.png" alt="optimization" width="70" height="70" />
 		<h1 class="font-bold text-xl mb-4 mt-3">Optimization</h1>
 		<p class="text-center">
 			60% of all internet traffic is on mobile devices, so we optimize your mobile to perform their
