@@ -1,10 +1,10 @@
 <script lang="ts">
-    export let desktopSrc: string;
     export let mobileSrc: string;
+    export let desktopSrc: string = mobileSrc;
     export let fallbackSrc: string = desktopSrc
     export let alt: string
-    export let width: number = 1920
-    export let height: number = 1280
+    export let width: string = "1920"
+    export let height: string = "1280"
 </script>
 <picture>
     <!-- Mobile Image -->
