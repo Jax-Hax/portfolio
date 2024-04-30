@@ -1,5 +1,6 @@
 <script>
-	import Features from './Features.svelte';
+	import BottomBar from './BottomBar.svelte';
+import Features from './Features.svelte';
 	import Header from './Header.svelte';
 	import Hero from './Hero.svelte';
 	import WhatWeDo from './WhatWeDo.svelte';
@@ -19,5 +20,8 @@
 	</div>
 	<div>
 		<WhoWeAre />
+	</div>
+	<div>
+		<BottomBar />
 	</div>
 </div>
