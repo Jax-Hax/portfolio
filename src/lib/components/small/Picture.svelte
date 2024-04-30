@@ -8,9 +8,9 @@
 </script>
 <picture>
     <!-- Mobile Image -->
-    <source media="(max-width: 600px)" srcset={mobileSrc}>
+    <source media="(max-width: 600px)" srcset="/{mobileSrc}">
     <!-- Desktop Image -->
-    <source media="(min-width: 601px)" srcset={desktopSrc}>
+    <source media="(min-width: 601px)" srcset="/{desktopSrc}">
     <!-- Fallback Image -->
-    <img aria-hidden="true" loading="lazy" decoding="async" src={fallbackSrc} {alt} {width} {height}>
+    <img aria-hidden="true" loading="lazy" decoding="async" src="/{fallbackSrc}" {alt} {width} {height} style="min-width: {width}px">
 </picture>

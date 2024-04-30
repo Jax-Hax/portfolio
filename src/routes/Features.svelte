@@ -3,7 +3,7 @@
 </script>
 
 <div class="flex flex-col lg:flex-row items-center gap-[75px]">
-	<div class="min-w-[500px] -ml-[70px]">
+	<div class="-ml-[70px]">
 		<Picture mobileSrc="savings.svg" alt="man saving next to piggy bank" width="500" height="350" />
 	</div>
 	<div>
@@ -19,15 +19,51 @@
 		<p class="mt-7">
 			You own your domain, content, listing, and profiles. Cancel anytime with no fees or hassle.
 		</p>
-        <div class="flex flex-col md:flex-row">
-            <div>
-                <div class="flex">
-                    <div>
-                    <h3>Hosting Fees Included</h3>
-                    <p>Hosting fees are built right into the monthly payment.</p>
-                </div>
-                </div>
-            </div>
-        </div>
+		<div class="grid md:grid-cols-2 gap-6 py-10 xl:-mr-20">
+			<div class="flex gap-3">
+				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
+				<div>
+					<h3 class="text-xl font-bold">Hosting Fees Included</h3>
+					<p>Hosting fees are built right into the monthly payment.</p>
+				</div>
+			</div>
+			<div class="flex gap-3">
+				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
+				<div>
+					<h3 class="text-xl font-bold">Unlimited Edits</h3>
+					<p>Change anything you want at anytime, free of charge.</p>
+				</div>
+			</div>
+			<div class="flex gap-3">
+				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
+				<div>
+					<h3 class="text-xl font-bold">_______</h3>
+					<p>_________.</p>
+				</div>
+			</div>
+			<div class="flex gap-3">
+				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
+				<div>
+					<h3 class="text-xl font-bold">Web Design & Development</h3>
+					<p>Includes over 50 hours of design, development, and testing.</p>
+				</div>
+			</div>
+			<div class="flex gap-3">
+				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
+				<div>
+					<h3 class="text-xl font-bold">100 Google Page Speed Score</h3>
+					<p>
+						We can achieve a perfect 100 on Google Page Speed scores and boost your search ranking.
+					</p>
+				</div>
+			</div>
+			<div class="flex gap-3">
+				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
+				<div>
+					<h3 class="text-xl font-bold">Google Analytics</h3>
+					<p>We install Analytics for free to monitor traffic and where it comes from.</p>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
