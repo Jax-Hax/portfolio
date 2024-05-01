@@ -1,5 +1,5 @@
 <script>
-	import CircleContainer from "$lib/components/small/CircleContainer.svelte";
+	import CircleContainer from "$lib/components/containers/CircleContainer.svelte";
 
 </script>
 <h1 class="font-bold text-5xl text-center">Quality over Quantity</h1>
