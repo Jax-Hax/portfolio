@@ -16,7 +16,7 @@
 
 <Header currentPage="About" />
 <Hero />
-<div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-20">
+<div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-40">
 	<div>
 		<Me />
 	</div>

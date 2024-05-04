@@ -3,6 +3,8 @@
 	import Header from '../Header.svelte';
 	import DoneDifferent from './DoneDifferent.svelte';
 	import Hero from './Hero.svelte';
+	import LifetimeUpdates from './LifetimeUpdates.svelte';
+	import Seo from './SEO.svelte';
 </script>
 
 <svelte:head>
@@ -13,11 +15,17 @@
 	/>
 </svelte:head>
 
-<Header currentPage="About" />
+<Header currentPage="Services" />
 <Hero />
-<div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-20">
+<div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-40">
 	<div>
 		<DoneDifferent />
+	</div>
+	<div>
+		<Seo />
+	</div>
+	<div>
+		<LifetimeUpdates />
 	</div>
 	<div>
 		<BottomBar />

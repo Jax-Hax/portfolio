@@ -16,7 +16,7 @@ import Features from './Features.svelte';
 </svelte:head>
 
 <Header currentPage="Home" />
-<div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-20">
+<div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-40">
 	<div>
 		<Hero />
 	</div>
