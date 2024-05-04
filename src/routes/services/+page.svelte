@@ -17,7 +17,7 @@
 
 <Header currentPage="Services" />
 <Hero />
-<div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-40">
+<div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-40 mt-40">
 	<div>
 		<DoneDifferent />
 	</div>

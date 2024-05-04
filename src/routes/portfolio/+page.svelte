@@ -2,27 +2,19 @@
 	import BottomBar from '../BottomBar.svelte';
 	import Header from '../Header.svelte';
 	import Hero from './Hero.svelte';
-	import Me from './Me.svelte';
-	import Quality from './Quality.svelte';
 </script>
 
 <svelte:head>
-	<title>___ - About</title>
+	<title>___ - Services</title>
 	<meta
 		name="description"
 		content="Websites for small businesses for $150 per month!"
 	/>
 </svelte:head>
 
-<Header currentPage="About" />
+<Header currentPage="Portfolio" />
 <Hero />
 <div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-40 mt-40">
-	<div>
-		<Me />
-	</div>
-    <div>
-		<Quality />
-	</div>
 	<div>
 		<BottomBar />
 	</div>
