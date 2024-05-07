@@ -3,7 +3,7 @@
 </script>
 
 <div class="flex gap-7 xl:-ml-20 items-center justify-center flex-col lg:flex-row">
-	<Picture alt="man staring at code" mobileSrc="VeggieTD.webp" width="550" scale={true} />
+	<Picture alt="naturejs" mobileSrc="naturejs.png" width="550" scale={true} />
 	<div class="lg:w-1/2">
 		<h1 class="text-5xl font-bold">NatureJS</h1>
 		<p class="text-lg mt-7">
