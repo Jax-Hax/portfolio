@@ -3,5 +3,5 @@
 </script>
 
 <BackgroundImage mobileSrc="check.png" alt="check">
-	<h1 class="text-center text-3xl">Contact Us</h1>
+	<h1 class="text-center text-3xl">Get In Touch</h1>
 </BackgroundImage>
