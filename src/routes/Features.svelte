@@ -37,8 +37,8 @@
 			<div class="flex gap-3">
 				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
 				<div>
-					<h3 class="text-xl font-bold">_______</h3>
-					<p>_________.</p>
+					<h3 class="text-xl font-bold">No Cost Up Front</h3>
+					<p>We do the bulk upfront as an investment so you can stay in your budget.</p>
 				</div>
 			</div>
 			<div class="flex gap-3">
