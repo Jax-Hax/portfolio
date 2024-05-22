@@ -1,13 +1,31 @@
 <script lang="ts">
+	import Picture from '$lib/components/small/Picture.svelte';
+
 	export let currentPage: string;
-    let pages = [{name: "Home", link: "/"}, {name: "About", link: "/about"}, {name: "Services", link: "/services"}, {name: "Portfolio", link: "/portfolio"}, {name: "Blog", link: "/blog"}, {name: "Contact", link: "/contact"}]
+	let pages = [
+		{ name: 'Home', link: '/' },
+		{ name: 'About', link: '/about' },
+		{ name: 'Services', link: '/services' },
+		{ name: 'Portfolio', link: '/portfolio' },
+		{ name: 'Blog', link: '/blog' },
+		{ name: 'Contact', link: '/contact' }
+	];
 </script>
 
 <div class="flex justify-between items-center px-10 py-5 max-w-[1100px] mx-auto">
-	<img class="w-[290px] h-auto mr-40" src="https://d33wubrfki0l68.cloudfront.net/f525bebad8ec45967899542ab37f9756287e1bbf/b31d2/images/logo-light-desktop.png" alt="company logo"/>
-	<div class="flex justify-between flex-1 h-min">
-        {#each pages as page}
-		    <a class={currentPage === page.name ? 'border-b-[3px] border-b-primary pb-2' : ''} href={page.link}>{page.name}</a>
-        {/each}
+	<div class="block dark:hidden">
+		<Picture mobileSrc="favicon-dark.png" width="100" alt="logo" />
 	</div>
-</div>
+	<div class="hidden dark:block">
+		<Picture mobileSrc="favicon.png" width="100" alt="logo" />
+	</div>
+	<h1 class="text-3xl font-bold">Bulbrook Web Designs</h1>
+	<div class="flex justify-between flex-1 h-min">
+		{#each pages as page}
+			<a
+				class={currentPage === page.name ? 'border-b-[3px] border-b-primary pb-2' : ''}
+				href={page.link}>{page.name}</a
+			>
+		{/each}
+	</div>
+</div>w
