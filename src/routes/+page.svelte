@@ -8,7 +8,7 @@ import Features from './Features.svelte';
 </script>
 
 <svelte:head>
-	<title>___ - Home</title>
+	<title>Bulbrook Web Designs - Home</title>
 	<meta
 		name="description"
 		content="Websites for small businesses for $150 per month!"

@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>___ - About</title>
+	<title>Bulbrook Web Designs - About</title>
 	<meta
 		name="description"
 		content="Websites for small businesses for $150 per month!"
