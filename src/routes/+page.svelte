@@ -15,6 +15,15 @@ import Features from './Features.svelte';
 	/>
 </svelte:head>
 
+<section class="absolute z-[-1]">
+		<img
+			aria-hidden="true"
+			loading="lazy"
+			decoding="async"
+			src="/layers.svg"
+			class="object-cover w-screen"
+		/>
+</section>
 <Header currentPage="Home" />
 <div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-40">
 	<div>

@@ -12,12 +12,11 @@
 			Month Minimum Contract
 		</h1>
 		<p class="mt-7">
-			$0 down for a standard 5 page small business website. If you need more than that then we have
-			to do custom pricing based on the scope of work, number of additional pages, and time
+			$0 down for a standard 5 page small business website. If you need more than that then we do custom pricing based on the scope of work, number of additional pages, and time
 			involved.
 		</p>
 		<p class="mt-7">
-			You own your domain, content, listing, and profiles. Cancel anytime with no fees or hassle.
+			You own your domain, content, and brand. Cancel anytime with no fees or hassle.
 		</p>
 		<div class="grid md:grid-cols-2 gap-6 py-10 xl:-mr-20">
 			<div class="flex gap-3">
