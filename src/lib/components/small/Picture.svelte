@@ -14,5 +14,5 @@
     <!-- Desktop Image -->
     <source media="(min-width: 601px)" srcset="/{desktopSrc}">
     <!-- Fallback Image -->
-    <img aria-hidden="true" loading="lazy" decoding={lazyLoaded ? "async" : "auto"} src="/{fallbackSrc}" {alt} {width} {height} style="{scale ? "" : `min-width: ${width}px`}">
+    <img aria-hidden="true" loading={lazyLoaded ? "lazy" : "eager"} decoding="async" src="/{fallbackSrc}" {alt} {width} {height} style="{scale ? "" : `min-width: ${width}px`}">
 </picture>
