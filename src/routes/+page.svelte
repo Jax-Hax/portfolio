@@ -18,7 +18,6 @@ import Features from './Features.svelte';
 <section class="absolute z-[-1]">
 		<img
 			aria-hidden="true"
-			loading="lazy"
 			decoding="async"
 			src="/layers.svg"
 			class="object-cover w-screen"

@@ -18,7 +18,6 @@ export const actions = {
                 if (error.response) {
                     console.error(error.response.body);
                 }
-                return new Response(JSON.stringify({ message: "error" }), { status: 404 })
             }
         );
     },

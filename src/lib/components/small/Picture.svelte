@@ -6,6 +6,7 @@
     export let width: string = "1920"
     export let height: string = "1280"
     export let scale: boolean = false
+    export let lazyLoaded: boolean = true;
 </script>
 <picture>
     <!-- Mobile Image -->
@@ -13,5 +14,5 @@
     <!-- Desktop Image -->
     <source media="(min-width: 601px)" srcset="/{desktopSrc}">
     <!-- Fallback Image -->
-    <img aria-hidden="true" loading="lazy" decoding="async" src="/{fallbackSrc}" {alt} {width} {height} style="{scale ? "" : `min-width: ${width}px`}">
+    <img aria-hidden="true" loading="lazy" decoding={lazyLoaded ? "async" : "auto"} src="/{fallbackSrc}" {alt} {width} {height} style="{scale ? "" : `min-width: ${width}px`}">
 </picture>
