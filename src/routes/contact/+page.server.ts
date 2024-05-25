@@ -3,14 +3,13 @@ import { SENDGRID_API_KEY } from "$env/static/private";
 sgMail.setApiKey(SENDGRID_API_KEY);
 
 export const actions = {
-    contact: async ({ url, locals, request }) => {
-        const { text } = await request.json();
-        console.log(text)
+    contact: async ({ request }) => {
+        const data = await request.formData();
         const msg = {
-            to: 'jaxbulbrook@gmail.com',
-            from: 'support@cognnect.com', // Use the email address or domain you verified above
-            subject: 'Cognnect email',
-            html: `<p>${text}</p>`
+            to: 'jax@bulbrookwebdesigns.com',
+            from: 'jax@bulbrookwebdesigns.com',
+            subject: 'Web dev business contact form',
+            html: `<p>${data.get('name')} sent you a message from business: ${data.get('business')} and email address: ${data.get('email')} and phone number: ${data.get('phone')} saying: {${data.get('description')}}</p>`
         };
         sgMail.send(msg).then(
             () => { },

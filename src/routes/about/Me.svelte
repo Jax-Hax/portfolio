@@ -7,10 +7,10 @@
 		<Picture mobileSrc="check.png" alt="Jax" width="360" height="550" />
 	</div>
 	<div>
-		<p class="text-primary uppercase">________ Business name</p>
+		<p class="text-primary uppercase">Bulbrook Web Designs</p>
 		<h1 class="font-bold text-5xl">Giving Small Businesses The Big Business Treatment</h1>
 		<p  class="mt-7">
-			My name is Jax B, I am the owner and sole developer of _______. I got into programming after
+			My name is Jax B, I am the owner and sole developer of Bulbrook Web Designs. I got into programming after
 			dreaming for years about making my own video game. It eventually grew into a love of web
 			development, and I realized I would enjoy working on websites much more than a traditional
 			job. So over the course of two years I taught myself how to code websites the right way by

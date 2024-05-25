@@ -7,7 +7,7 @@
 		{ name: 'About', link: '/about' },
 		{ name: 'Services', link: '/services' },
 		{ name: 'Portfolio', link: '/portfolio' },
-		{ name: 'Blog', link: '/blog' },
+//		{ name: 'Blog', link: '/blog' },
 		{ name: 'Contact', link: '/contact' }
 	];
 	let menuOpen: boolean = false;
