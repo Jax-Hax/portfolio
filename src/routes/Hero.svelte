@@ -4,7 +4,7 @@
 
 </script>
 
-<div class="flex flex-col md:flex-row mt-60 xl:-ml-10 items-center justify-around">
+<div class="flex flex-col md:flex-row mt-60 xl:-ml-10 items-center justify-around gap-5">
 	<div class="md:w-1/2">
 		<h1 class="font-bold text-5xl leading-[1.2] mb-8">Small Business Web Design + Development</h1>
 		<p class="mb-7">
@@ -13,5 +13,5 @@
 		</p>
 		<a href="/contact" class="btn">Get in touch!</a>
 	</div>
-	<Picture mobileSrc="carbon.png" width=400 alt="hero" lazyLoaded={false} />
+	<Picture mobileSrc="carbon.png" width=400 scale={true} alt="hero" lazyLoaded={false} />
 </div>
