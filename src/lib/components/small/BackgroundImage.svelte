@@ -5,6 +5,7 @@
 	export let alt: string;
 	export let width: string = '1920';
 	export let height: string = '1280';
+	export let heroBackground: boolean = false;
 </script>
 
 <section class="relative z-[1] w-full" style="height: {height}px">
@@ -20,7 +21,7 @@
 		<!-- Fallback Image -->
 		<img
 			aria-hidden="true"
-			loading="lazy"
+			loading={!heroBackground ? "lazy" : "eager"}
 			decoding="async"
 			src="/{fallbackSrc}"
 			{alt}
