@@ -2,6 +2,7 @@
 	import BackgroundImage from '$lib/components/small/BackgroundImage.svelte';
 </script>
 
-<BackgroundImage mobileSrc="check.png" alt="check">
-	<h1 class="text-center text-3xl">Our Portfolio</h1>
+<BackgroundImage mobileSrc="mountains.png" alt="check" height=400 heroBackground={true}>
+	<h1 class="text-center text-3xl pt-60 font-bold text-white">Our Portfolio</h1>
 </BackgroundImage>
+
