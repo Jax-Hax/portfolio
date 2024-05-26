@@ -7,15 +7,15 @@
 	<div class="lg:w-1/2">
 		<h1 class="text-5xl leading-[1.1] font-bold">Web Design & Development Done Differently</h1>
 		<p class="text-lg mt-7">
-			What makes us unique in the development world is that we don't use WordPress, no-code tools, or
-			page builders. We meticulously write the code line by line. This gives us much more control
-			over the design, and the website performs lightning fast because there's no bloated or messy
-			boilerplate code that slows it down. 
+			Rather than using slow page builders or WordPress sites, we meticulously write the code line
+			by line. This gives us much more control over the design, and the website performs lightning
+			fast because there's no bloated or messy boilerplate code that slows it down.
 		</p>
-        <p class="mt-7 text-lg">
-            Websites built by hand will <span class="text-primary font-bold">out-perform most WordPress sites</span> and drag
-			and drop page builders which could cost thousands of dollars. When it comes to the web, the
-			faster and more organized websites win.
-        </p>
+		<p class="mt-7 text-lg">
+			Websites built by hand will <span class="text-primary font-bold"
+				>out-perform WordPress sites</span
+			> and drag and drop page builders which could cost thousands of dollars. When it comes to the web,
+			the faster and more organized websites win.
+		</p>
 	</div>
 </div>

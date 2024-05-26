@@ -6,9 +6,7 @@
 	<div class="lg:w-1/2">
 		<h1 class="text-4xl leading-[1.1] font-bold">Search Engine Optimization For 2024</h1>
 		<p class="text-lg mt-7">
-			If someone tells you they can get you to the front page of Google in 3 months - <span class="text-primary font-bold">RUN!</span> Unless
-			your website was featured by The New York Times it could take years to rank in the top of the
-			search results.
+			If someone tells you they can get you to the front page of Google in 3 months - <span class="text-primary font-bold">RUN!</span> Often times it takes years to reach the top pages, along with thousands of dollars.
 		</p>
 		<p class="mt-7 text-lg">
             We offer a number of the latest search engine optimization techniques for 2024:
@@ -23,7 +21,7 @@
 			<div class="flex gap-3 items-center">
 				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
 				<div>
-					<p>Mobile-First-Optimized for the Best Experience</p>
+					<p>Mobile-First Optimization for the Best Experience</p>
 				</div>
 			</div>
 			<div class="flex gap-3 items-center">
@@ -35,7 +33,7 @@
 			<div class="flex gap-3 items-center">
 				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
 				<div>
-					<p>Fully Responsive For Mobile, Tablet, & Desktop</p>
+					<p>Fully Responsive on Mobile, Tablet, & Desktop</p>
 				</div>
 			</div>
 		</div>
