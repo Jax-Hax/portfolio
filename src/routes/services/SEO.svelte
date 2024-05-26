@@ -40,5 +40,5 @@
 			</div>
 		</div>
 	</div>
-	<Picture alt="man staring at code" mobileSrc="responsive.png" width="550" scale={true} />
+	<Picture alt="100 page score on google insights" mobileSrc="page-speed-100.png" width="550" scale={true} />
 </div>
