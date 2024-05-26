@@ -22,35 +22,35 @@
 			<div class="flex gap-3">
 				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
 				<div>
-					<h3 class="text-xl font-bold">Hosting Fees Included</h3>
+					<h2 class="text-xl font-bold">Hosting Fees Included</h2>
 					<p>Hosting fees are built right into the monthly payment.</p>
 				</div>
 			</div>
 			<div class="flex gap-3">
 				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
 				<div>
-					<h3 class="text-xl font-bold">Unlimited Edits</h3>
+					<h2 class="text-xl font-bold">Unlimited Edits</h2>
 					<p>Change anything you want at anytime, free of charge.</p>
 				</div>
 			</div>
 			<div class="flex gap-3">
 				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
 				<div>
-					<h3 class="text-xl font-bold">No Cost Up Front</h3>
+					<h2 class="text-xl font-bold">No Cost Up Front</h2>
 					<p>We do the bulk upfront as an investment so you can stay in your budget.</p>
 				</div>
 			</div>
 			<div class="flex gap-3">
 				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
 				<div>
-					<h3 class="text-xl font-bold">Web Design & Development</h3>
+					<h2 class="text-xl font-bold">Web Design & Development</h2>
 					<p>Includes over 50 hours of design, development, and testing.</p>
 				</div>
 			</div>
 			<div class="flex gap-3">
 				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
 				<div>
-					<h3 class="text-xl font-bold">100 Google Page Speed Score</h3>
+					<h2 class="text-xl font-bold">100 Google Page Speed Score</h2>
 					<p>
 						We can achieve a perfect 100 on Google Page Speed scores and boost your search ranking.
 					</p>
@@ -59,7 +59,7 @@
 			<div class="flex gap-3">
 				<Picture mobileSrc="check.png" alt="checkmark" width="30" height="30" />
 				<div>
-					<h3 class="text-xl font-bold">Google Analytics</h3>
+					<h2 class="text-xl font-bold">Google Analytics</h2>
 					<p>We install Analytics for free to monitor traffic and where it comes from.</p>
 				</div>
 			</div>

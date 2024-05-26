@@ -27,6 +27,7 @@
 					menuOpen = true;
 				}}
 				class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5"
+				aria-label="Menu Opener"
 			>
 				<svg
 					class="h-6 w-6"
