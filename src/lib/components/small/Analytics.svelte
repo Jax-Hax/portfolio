@@ -14,7 +14,7 @@
 </script>
 
 <svelte:head>
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-03C7TFW38R">
+	<script defer src="https://www.googletagmanager.com/gtag/js?id=G-03C7TFW38R">
 	</script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
