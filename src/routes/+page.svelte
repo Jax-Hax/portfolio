@@ -30,4 +30,6 @@
 		<WhoWeAre />
 	</div>
 </div>
+<div class="mt-40">
 <BottomBar />
+</div>
