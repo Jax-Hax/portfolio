@@ -5,7 +5,7 @@
 <div class="flex gap-7 xl:-ml-20 items-center justify-center flex-col lg:flex-row">
 	<Picture alt="man staring at code" mobileSrc="responsive.png" width="550" scale={true} />
 	<div class="lg:w-1/2">
-		<h1 class="text-5xl font-bold">Web Design & Development Done Differently</h1>
+		<h1 class="text-5xl leading-[1.1] font-bold">Web Design & Development Done Differently</h1>
 		<p class="text-lg mt-7">
 			What makes us unique in the development world is that we don't use WordPress, no-code tools, or
 			page builders. We meticulously write the code line by line. This gives us much more control

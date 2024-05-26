@@ -2,8 +2,8 @@
 	import { enhance } from "$app/forms";
 
 </script>
-<h1 class="font-bold text-5xl mb-10">Talk to us</h1>
-<form method="POST" action="?/contact" use:enhance class="flex flex-col gap-5">
+<form method="POST" action="?/contact" use:enhance class="flex flex-col gap-5 max-w-lg bg-base-200 p-5 rounded-xl">
+    <h1 class="font-bold text-3xl mb-4">Talk to us</h1>
     <input
         class="input input-bordered input-primary w-full"
         placeholder="Name"

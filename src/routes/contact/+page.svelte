@@ -3,6 +3,7 @@
 	import Header from '../Header.svelte';
 	import ContactForm from './ContactForm.svelte';
 	import Hero from './Hero.svelte';
+	import Info from './Info.svelte';
 </script>
 
 <svelte:head>
@@ -17,7 +18,10 @@
 <Hero />
 <div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-40 mt-40">
 	<div>
-		<ContactForm />
+		<div class="flex flex-col md:flex-row-reverse justify-center gap-10">
+			<Info />
+			<ContactForm />
+		</div>
 	</div>
 	<div>
 		<BottomBar />

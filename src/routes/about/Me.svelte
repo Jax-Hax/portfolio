@@ -8,7 +8,7 @@
 	</div>
 	<div>
 		<p class="text-primary uppercase">Bulbrook Web Designs</p>
-		<h1 class="font-bold text-5xl">Giving Small Businesses The Big Business Treatment</h1>
+		<h1 class="font-bold text-5xl leading-[1.1]">Giving Small Businesses The Big Business Treatment</h1>
 		<p  class="mt-7">
 			My name is Jax B, I am the owner and sole developer of Bulbrook Web Designs. I got into programming after
 			dreaming for years about making my own video game. It eventually grew into a love of web

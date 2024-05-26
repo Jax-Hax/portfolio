@@ -37,7 +37,5 @@ import Features from './Features.svelte';
 	<div>
 		<WhoWeAre />
 	</div>
-	<div>
-		<BottomBar />
-	</div>
 </div>
+<BottomBar />
