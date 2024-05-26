@@ -47,7 +47,7 @@
 		<div class="hidden lg:flex justify-between flex-1 h-min">
 			{#each pages as page}
 				<a
-					class={currentPage === page.name ? 'border-b-[3px] border-b-primary pb-2' : ''}
+					class={currentPage === page.name ? 'border-b-[3px] border-b-primary pb-2 text-white' : 'text-white'}
 					href={page.link}>{page.name}</a
 				>
 			{/each}
