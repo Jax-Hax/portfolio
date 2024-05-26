@@ -7,8 +7,9 @@
     export let height: string = "1280"
     export let scale: boolean = false
     export let lazyLoaded: boolean = true;
+    export let className: string = ""
 </script>
-<picture>
+<picture class={className}>
     <!-- Mobile Image -->
     <source media="(max-width: 600px)" srcset="/{mobileSrc}">
     <!-- Desktop Image -->
