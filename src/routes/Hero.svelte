@@ -13,5 +13,5 @@
 		</p>
 		<a href="/contact" class="btn">Get in touch!</a>
 	</div>
-	<Picture mobileSrc="smartphone.png" width=290 alt="hero" />
+	<Picture mobileSrc="smartphone.png" width=290 alt="hero" lazyLoaded={false} />
 </div>
