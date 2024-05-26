@@ -3,7 +3,7 @@
 </script>
 
 <div class="flex gap-7 xl:-ml-20 items-center justify-center flex-col lg:flex-row">
-	<Picture alt="man staring at code" mobileSrc="responsive.png" width="550" scale={true} />
+	<Picture alt="website with code on it" mobileSrc="website-code.png" width="550" scale={true} />
 	<div class="lg:w-1/2">
 		<h1 class="text-5xl leading-[1.1] font-bold">Web Design & Development Done Differently</h1>
 		<p class="text-lg mt-7">

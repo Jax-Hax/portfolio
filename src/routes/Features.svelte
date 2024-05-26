@@ -4,7 +4,7 @@
 
 <div class="flex flex-col lg:flex-row items-center gap-[75px]">
 	<div class="-ml-[70px]">
-		<Picture mobileSrc="savings.svg" alt="man saving next to piggy bank" width="500" height="350" />
+		<Picture mobileSrc="piggy.png" alt="man saving next to piggy bank" width="500" height="350" />
 	</div>
 	<div>
 		<h1 class="text-center font-bold text-4xl mt-10">
