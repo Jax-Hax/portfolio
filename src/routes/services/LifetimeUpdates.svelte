@@ -17,24 +17,24 @@
 			<div
 				class="py-20 bg-base-200 rounded-2xl border-t-4 border-primary shadow-xl px-7 sm:-translate-y-12"
 			>
-				<Picture alt="design updates" mobileSrc="blob.png" width="50" />
+				<Picture alt="design updates" mobileSrc="update.png" width="50" />
 				<h1 class="font-bold text-xl mt-7 mb-4">Design Updates</h1>
 				<p>If you ever want a new design, we will rebuild your website at no extra cost.</p>
 			</div>
 			<div class="py-20 bg-base-200 rounded-2xl border-t-4 border-primary shadow-xl px-7">
-				<Picture alt="design updates" mobileSrc="blob.png" width="50" />
+				<Picture alt="web accessibility" mobileSrc="accessibility.png" width="50" />
 				<h1 class="font-bold text-xl mt-7 mb-4">Web Accessibility</h1>
 				<p>Staying on top of the latest guidelines for web accessibility compliance.</p>
 			</div>
 			<div
 				class="py-20 bg-base-200 rounded-2xl border-t-4 border-primary shadow-xl px-7 sm:-translate-y-12"
 			>
-				<Picture alt="design updates" mobileSrc="blob.png" width="50" />
+				<Picture alt="a search engine" mobileSrc="seo.png" width="50" />
 				<h1 class="font-bold text-xl mt-7 mb-4">Search Engine Updates</h1>
 				<p>Your website will stay up to date with Google's search guidelines for ranking.</p>
 			</div>
 			<div class="py-20 bg-base-200 rounded-2xl border-t-4 border-primary shadow-xl px-7">
-				<Picture alt="design updates" mobileSrc="blob.png" width="50" />
+				<Picture alt="google" mobileSrc="google.png" width="50" />
 				<h1 class="font-bold text-xl mt-7 mb-4">Google Business Profile</h1>
 				<p>We also help optimize and manage your Google Business Profile.</p>
 			</div>
