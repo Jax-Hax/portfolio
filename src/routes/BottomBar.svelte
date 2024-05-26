@@ -3,13 +3,13 @@
 </script>
 
 <div class="flex flex-col md:flex-row justify-around gap-3 mb-20">
-	<div>
-		<a href="/" class="my-2">
+	<div class="flex flex-col gap-2">
+		<a href="/">
 			<span class="sr-only">Bulbrook Web Designs</span>
 			<Picture mobileSrc="favicon.png" width="100" alt="logo" />
 		</a>
 		<div class="mb-3">
-			<a href="mailto:jax@bulbrookwebdesigns.com">jax@bulbrookwebdesigns.com</a>
+			<a class="py-1" href="mailto:jax@bulbrookwebdesigns.com">jax@bulbrookwebdesigns.com</a>
 		</div>
 		<div><a href="tel:804-821-8230">(804) 821-8230</a></div>
 	</div>
