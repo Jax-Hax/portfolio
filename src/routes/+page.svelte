@@ -16,10 +16,8 @@
 	<img aria-hidden="true" decoding="async" src="/layers.svg" class="object-cover w-screen" alt="layered svg" />
 </section>
 <Header currentPage="Home" />
+<Hero />
 <div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-40">
-	<div>
-		<Hero />
-	</div>
 	<div>
 		<WhatWeDo />
 	</div>
