@@ -12,9 +12,6 @@
 	title="Bulbrook Web Designs - Home"
 	description="Websites for small businesses for $150 per month!"
 />
-<section class="absolute z-[-1]">
-	<img aria-hidden="true" decoding="async" src="/layers.svg" class="object-cover w-screen" alt="layered svg" />
-</section>
 <Header currentPage="Home" />
 <Hero />
 <div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-40">
