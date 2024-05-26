@@ -3,8 +3,8 @@
 </script>
 
 <div class="flex flex-col lg:flex-row items-center gap-[75px]">
-	<div class="-ml-[70px]">
-		<Picture mobileSrc="piggy.png" alt="man saving next to piggy bank" width="500" height="350" />
+	<div class="md:-ml-[70px] lg:w-2/3">
+		<Picture mobileSrc="piggy.png" alt="man saving next to piggy bank" width="500" height="350" scale={true} />
 	</div>
 	<div>
 		<h1 class="text-center font-bold text-4xl mt-10">
