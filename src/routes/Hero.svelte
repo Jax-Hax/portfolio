@@ -9,7 +9,7 @@
 		<h1 class="font-bold text-[3rem] mb-8">Small Business Web Design + Development</h1>
 		<p class="mb-7">
 			100% hand-coded websites with superior results
-			for just at $150/mo, hosting included.
+			for just $150/mo, hosting included.
 		</p>
 		<a href="/contact" class="btn">Get in touch!</a>
 	</div>
