@@ -12,7 +12,7 @@
 <p class="max-w-xl mx-auto text-center mb-10">
 	We specialize in small business web design and development for an affordable price. Every
 	line of code is hand-written to ensure the best performance, which helps bring in more
-	customers to your site and bring more revenue to your business. <a class="font-semibold text-primary" href="/services">LEARN MORE</a>
+	customers to your site and bring more revenue to your business. <a class="font-semibold text-primary" href="/services">OUR SERVICES</a>
 </p>
 <div class="flex gap-3 flex-col md:flex-row">
 	<div class="flex flex-col items-center">
