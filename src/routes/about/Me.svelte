@@ -2,7 +2,7 @@
 	import Picture from '$lib/components/small/Picture.svelte';
 </script>
 
-<div class="flex items-center gap-3">
+<div class="flex flex-col lg:flex-row items-center gap-3">
 	<div>
 		<Picture mobileSrc="check.png" alt="Jax" width="360" height="550" />
 	</div>

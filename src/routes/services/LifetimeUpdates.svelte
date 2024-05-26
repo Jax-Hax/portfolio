@@ -39,7 +39,7 @@
 				<p>We help optimize and manage your Google Business Profile for maximum coverage.</p>
 			</div>
 		</div>
-		<div class="absolute top-0 -left-20 -z-10 opacity-10 rotate-[150deg]">
+		<div class="absolute top-0 -left-20 -z-10 opacity-10 rotate-[150deg] max-lg:hidden">
 			<Picture alt="blob" mobileSrc="blob.png" width="750" />
 		</div>
 	</div>
