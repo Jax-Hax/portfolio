@@ -31,7 +31,5 @@
     <div>
         <StockShare />
     </div>
-	<div>
-		<BottomBar />
-	</div>
 </div>
+<BottomBar />

@@ -23,7 +23,5 @@
 			<ContactForm />
 		</div>
 	</div>
-	<div>
-		<BottomBar />
-	</div>
 </div>
+<BottomBar />

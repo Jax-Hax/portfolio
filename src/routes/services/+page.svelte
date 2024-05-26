@@ -27,7 +27,5 @@
 	<div>
 		<LifetimeUpdates />
 	</div>
-	<div>
-		<BottomBar />
-	</div>
 </div>
+<BottomBar />

@@ -26,7 +26,5 @@
 	<div class="m-auto">
 		<a href="/services" class="btn btn-primary text-white uppercase">Our Services</a>
 	</div>
-	<div>
-		<BottomBar />
-	</div>
 </div>
+<BottomBar />
