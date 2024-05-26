@@ -1,4 +1,5 @@
 <script>
+	import Analytics from '$lib/components/small/Analytics.svelte';
 	import BottomBar from '../BottomBar.svelte';
 	import Header from '../Header.svelte';
 	import ContactForm from './ContactForm.svelte';
@@ -6,13 +7,10 @@
 	import Info from './Info.svelte';
 </script>
 
-<svelte:head>
-	<title>Bulbrook Web Designs - Contact</title>
-	<meta
-		name="description"
-		content="Websites for small businesses for $150 per month!"
-	/>
-</svelte:head>
+<Analytics
+	title="Bulbrook Web Designs - Contact"
+	description="Websites for small businesses for $150 per month!"
+/>
 
 <Header currentPage="Contact" />
 <Hero />
