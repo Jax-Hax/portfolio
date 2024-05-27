@@ -18,7 +18,7 @@
 		<div class="flex lg:flex-1">
 			<a href="/" class="-m-1.5 p-1.5">
 				<span class="sr-only">Bulbrook Web Designs</span>
-				<Picture mobileSrc="favicon.png" width="100" alt="logo" />
+				<Picture mobileSrc="logo-with-text.png" width="290" alt="logo" />
 			</a>
 		</div>
 		<div class="flex lg:hidden">

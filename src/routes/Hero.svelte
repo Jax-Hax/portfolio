@@ -3,7 +3,7 @@
 </script>
 
 <div class="bg-gradient-to-r from-cyan-500 to-blue-500 dark:from-blue-700 dark:to-blue-900 text-white">
-	<div class="flex flex-col md:flex-row pt-60 xl:-ml-10 items-center justify-around gap-5 px-10 m-auto">
+	<div class="flex flex-col md:flex-row pt-40 xl:-ml-10 items-center justify-around gap-5 px-10 m-auto">
 		<div class="md:w-1/2">
 			<h1 class="font-bold text-5xl leading-[1.2] mb-8">Small Business Web Design + Development</h1>
 			<p class="mb-7">
@@ -13,7 +13,7 @@
 		</div>
 		<Picture mobileSrc="carbon.png" width="400" scale={true} alt="hero" lazyLoaded={false} />
 	</div>
-	<div class="w-full">
+	<div class="w-full pt-10">
 		<svg
 			data-name="Layer 1"
 			xmlns="http://www.w3.org/2000/svg"
