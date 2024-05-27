@@ -11,7 +11,7 @@
 			</p>
 			<a href="/contact" class="btn">Get in touch!</a>
 		</div>
-		<Picture mobileSrc="carbon.png" width="400" scale={true} alt="hero" lazyLoaded={false} />
+		<Picture mobileSrc="carbon.webp" width="400" height="502" scale={true} alt="hero" lazyLoaded={false} />
 	</div>
 	<div class="w-full pt-10">
 		<svg
