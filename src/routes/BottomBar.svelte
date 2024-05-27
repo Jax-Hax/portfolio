@@ -12,7 +12,7 @@
 		<div class="flex flex-col gap-2">
 			<a href="/">
 				<span class="sr-only">Bulbrook Web Designs</span>
-				<Picture mobileSrc="favicon.png" width="100" alt="logo" />
+				<Picture mobileSrc="logo.png" width="100" alt="logo" />
 			</a>
 			<div class="mb-3">
 				<a class="py-1" href="mailto:jax@bulbrookwebdesigns.com">jax@bulbrookwebdesigns.com</a>
