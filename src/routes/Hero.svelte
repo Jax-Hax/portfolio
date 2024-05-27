@@ -5,7 +5,7 @@
 <div class="bg-gradient-to-r from-cyan-500 to-blue-500 dark:from-blue-700 dark:to-blue-900 text-white">
 	<div class="flex flex-col md:flex-row pt-40 xl:-ml-10 items-center justify-around gap-5 px-10 m-auto">
 		<div class="md:w-1/2">
-			<h1 class="font-bold text-[2.9rem] leading-[1.2] mb-8">Small Business Web Design + Development</h1>
+			<h1 class="font-bold text-[2.8rem] md:text-5xl leading-[1.2] mb-8">Small Business Web Design + Development</h1>
 			<p class="mb-7">
 				100% hand-coded websites with superior results for just $150/mo, hosting included.
 			</p>
