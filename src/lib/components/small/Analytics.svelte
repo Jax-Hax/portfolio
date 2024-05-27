@@ -16,7 +16,7 @@
 <svelte:head>
 	<script defer src="https://www.googletagmanager.com/gtag/js?id=G-03C7TFW38R">
 	</script>
-	<script defer>
+	<script async>
 		window.dataLayer = window.dataLayer || [];
 
 		function gtag() {
