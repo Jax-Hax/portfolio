@@ -14,7 +14,7 @@
 </script>
 
 <header class="relative z-[100]">
-	<nav class="flex justify-between absolute top-0 left-0 items-center px-10 py-5 mx-auto w-full">
+	<nav class="flex justify-between absolute top-0 left-0 items-center px-3 md:px-10 py-5 mx-auto w-full">
 		<div class="flex lg:flex-1">
 			<a href="/" class="-m-1.5 p-1.5">
 				<span class="sr-only">Bulbrook Web Designs</span>
