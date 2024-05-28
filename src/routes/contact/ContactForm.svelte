@@ -1,7 +1,7 @@
 <script>
 	import { enhance } from '$app/forms';
 	import Picture from '$lib/components/small/Picture.svelte';
-	let contacting = 1;
+	let contacting = 0;
 </script>
 
 <form
