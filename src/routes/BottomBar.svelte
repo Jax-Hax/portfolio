@@ -31,11 +31,11 @@
 		<div>
 			<h1 class="font-bold text-3xl">Services</h1>
 			<div class="divider divider-primary"></div>
-			<div class="my-1">Web Design</div>
-			<div class="my-1">Website Maintenance</div>
-			<div class="my-1">SEO Services</div>
-			<div class="my-1">Hosting</div>
-			<div class="my-1">Lifetime Updates</div>
+			<a href="/services" class="my-1">Web Design</a>
+			<a href="/services" class="my-1">Website Maintenance</a>
+			<a href="/services" class="my-1">SEO Services</a>
+			<a href="/services" class="my-1">Hosting</a>
+			<a href="/services" class="my-1">Lifetime Updates</a>
 		</div>
 	</footer>
 </div>
