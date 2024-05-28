@@ -28,7 +28,7 @@
 			<div class="my-1"><a class="link link-hover transition" href="/portfolio">Portfolio</a></div>
 			<div class="my-1"><a class="link link-hover transition" href="/contact">Contact</a></div>
 		</div>
-		<div>
+		<div class="flex flex-col">
 			<h1 class="font-bold text-3xl">Services</h1>
 			<div class="divider divider-primary"></div>
 			<a href="/services" class="my-1">Web Design</a>
