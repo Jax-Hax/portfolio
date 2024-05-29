@@ -9,11 +9,11 @@
     export let lazyLoaded: boolean = true;
     export let className: string = ""
 </script>
-<picture class={className}>
+<picture>
     <!-- Mobile Image -->
     <source media="(max-width: 600px)" srcset="/{mobileSrc}">
     <!-- Desktop Image -->
     <source media="(min-width: 601px)" srcset="/{desktopSrc}">
     <!-- Fallback Image -->
-    <img aria-hidden="true" loading={lazyLoaded ? "lazy" : "eager"} decoding="async" src="/{fallbackSrc}" {alt} {width} {height} style="{scale ? "" : `min-width: ${width}px`}">
+    <img aria-hidden="true"  class={className} loading={lazyLoaded ? "lazy" : "eager"} decoding="async" src="/{fallbackSrc}" {alt} {width} {height} style="{scale ? "" : `min-width: ${width}px`}">
 </picture>

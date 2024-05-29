@@ -17,7 +17,7 @@
 	>
 </p>
 <div class="flex flex-col items-center mt-20">
-	<Picture mobileSrc="coding.png" alt="optimization" width="290" height="290" />
+	<Picture mobileSrc="blue-shirt.webp" alt="optimization" width="290" height="290" />
 	<h2 class="font-bold mt-10 mb-2">Jax Bulbrook</h2>
 	<p class="uppercase">Owner/Developer</p>
 </div>

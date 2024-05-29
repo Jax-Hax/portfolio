@@ -2,9 +2,9 @@
 	import Picture from '$lib/components/small/Picture.svelte';
 </script>
 
-<div class="flex flex-col lg:flex-row items-center gap-3">
-	<div>
-		<Picture mobileSrc="check.png" alt="Jax" width="360" height="550" />
+<div class="flex flex-col lg:flex-row items-center gap-7">
+	<div class="rounded-xl">
+		<Picture mobileSrc="red-shirt.webp" alt="Jax" width="360" height="550" className="rounded-xl shadow-xl" />
 	</div>
 	<div>
 		<p class="text-primary uppercase">Bulbrook Web Designs</p>
