@@ -3,6 +3,7 @@
 	import BottomBar from '../BottomBar.svelte';
 	import Header from '../Header.svelte';
 	import Cognnect from './Cognnect.svelte';
+	import Confidental from './Confidental.svelte';
 	import Hero from './Hero.svelte';
 	import NaturalSelection from './NaturalSelection.svelte';
 	import StockShare from './StockShare.svelte';
@@ -17,6 +18,9 @@
 <Header currentPage="Portfolio" />
 <Hero />
 <div class="max-w-[1100px] mx-auto px-10 flex flex-col gap-40 mt-40">
+    <div>
+        <Confidental />
+    </div>
     <div>
         <Cognnect />
     </div>
