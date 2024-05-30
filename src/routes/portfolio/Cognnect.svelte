@@ -10,7 +10,7 @@
 			A site we built for our school last year, made to replace an ancient app the school system uses to track our grades. It has built in notifications, advanced grade calculations/storage (2000+ lines of Javascript, PostgreSQL database), and a beautiful UI.
 		</p>
         <p class="mt-7 text-lg">
-            It quickly got <span class="text-primary font-bold">over 50 users</span>, all of whom love the app and the quick developer response time for any issues they have!
+            It quickly got <span class="text-primary font-bold">over 50 users</span>, 50% of the sophomore class at my school, all of whom love the app and the quick developer response time for any issues they have!
         </p>
 	</div>
 </div>

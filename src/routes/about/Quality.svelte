@@ -4,9 +4,9 @@
 
 <h1 class="font-bold text-5xl text-center">Quality over Quantity</h1>
 <p class="mt-7 text-lg text-center">
-	We focus on the needs on the few over the needs of the many, unlike other companies who pump out
+	We focus on the needs of the few over the needs of the many, unlike other companies who pump out
 	webiste after website. We are here to build relationships with our clients, not just sell a
-	website. We work closely with you and share every step of the process so you end up with what you
+	website. We work closely with you and share every step of the process so you end up with the product you
 	envisioned.
 </p>
 <div class="mt-20 flex flex-col md:flex-row items-center justify-center gap-10">
@@ -21,7 +21,7 @@
 		<CircleContainer><div class="text-white text-3xl">2</div></CircleContainer>
 		<h1 class="font-bold text-xl text-center">Unbeatable Customer Service</h1>
 		<p class="text-center">
-			No automated systems - When you need help the lead developer answers your call.
+			No automated systems - when you need help, the lead developer answers your call.
 		</p>
 	</div>
 	<div class="flex flex-col items-center gap-5">

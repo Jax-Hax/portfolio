@@ -22,7 +22,7 @@
 			What I found was that a lot of small businesses don't have the funds to spend thousands of
 			dollars upfront on a new website. For the few who did, they often were taken advantage of by
 			bad web developers who look like they haven't seen design trends for decades. Then they can't
-			get a refund and are stuck with a horrible webiste. So I tweaked my business model to fit
+			get a refund and are stuck with a horrible website. That is why I decided to tweak my business model to fit
 			their needs. You see the whole design process, and if you don't like the end product (even
 			with unlimited edits!) you can always cancel free of charge.
 		</p>

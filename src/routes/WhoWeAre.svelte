@@ -10,9 +10,9 @@
 <p class="mt-7 max-w-2xl text-center mx-auto">
 	My name is Jax, I am a high school student and web developer. I started this business because I
 	love coding and want to be able to afford college for a Computer Science Degree. I learned how to code
-	when I was 9 after being inspired by games such as Minecraft. Now after having coded for 7 years I
+	when I was 8 after being inspired by games such as Minecraft. Now after having coded for 8 years I
 	am confident enough to charge for my work and have my method down to a science. <a
-		class="font-semibold text-primary"
+		class="font-semibold text-primary block"
 		href="/about">ABOUT ME</a
 	>
 </p>

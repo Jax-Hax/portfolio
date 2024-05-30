@@ -8,7 +8,7 @@
 	</div>
 	<div>
 		<h1 class="text-center font-bold text-4xl mt-10">
-			<span class="text-primary">$0</span> Down, <span class="text-primary">$150</span> Per Month, 12
+			<span class="text-primary">$0</span> Down, <span class="text-primary">$150</span> Per Month, 6
 			Month Minimum Contract
 		</h1>
 		<p class="mt-7">

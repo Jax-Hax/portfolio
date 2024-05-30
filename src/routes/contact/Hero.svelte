@@ -3,5 +3,5 @@
 </script>
 
 <BackgroundImage mobileSrc="mountains.png" alt="check" height=400 heroBackground={true}>
-	<h1 class="text-center text-3xl pt-60 font-bold text-white">Get In Touch</h1>
+	<h1 class="text-center text-3xl pt-60 font-bold text-white">Contact Us</h1>
 </BackgroundImage>

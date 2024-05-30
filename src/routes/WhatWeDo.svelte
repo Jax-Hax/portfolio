@@ -13,7 +13,7 @@
 	We specialize in small business web design and development for an affordable price. Every line of
 	code is hand-written to ensure the best performance, which helps bring in more customers to your
 	site and bring more revenue to your business. <a
-		class="font-semibold text-primary"
+		class="font-semibold text-primary block"
 		href="/services">OUR SERVICES</a
 	>
 </p>

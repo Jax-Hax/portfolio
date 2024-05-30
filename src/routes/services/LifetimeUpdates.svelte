@@ -2,7 +2,7 @@
 	import Picture from '$lib/components/small/Picture.svelte';
 </script>
 
-<div class="flex gap-12 xl:-ml-20 items-center justify-center flex-col lg:flex-row mt-40">
+<div class="flex gap-12 xl:-ml-20 items-center justify-center flex-col lg:flex-row lg:mt-40">
 	<div class="lg:w-full">
 		<h1 class="text-5xl font-bold">Lifetime Updates For Your Website</h1>
 		<p class="text-lg mt-7">

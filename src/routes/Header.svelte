@@ -60,7 +60,7 @@
 				>
 					<div class="flex items-center justify-between">
 						<div class="-m-4 p-1.5">
-							<Picture mobileSrc="favicon.png" width="100" alt="logo" />
+							<Picture mobileSrc="logo.png" width="100" alt="logo" />
 						</div>
 						<button on:click={() => (menuOpen = false)} class="-m-2.5 rounded-md p-2.5">
 							<span class="sr-only">Close menu</span>
