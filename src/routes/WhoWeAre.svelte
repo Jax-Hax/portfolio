@@ -8,10 +8,7 @@
 </h1>
 <Divider src="person.png" />
 <p class="mt-7 max-w-2xl text-center mx-auto">
-	My name is Jax, I am a high school student and web developer. I started this business because I
-	love coding and want to be able to afford college for a Computer Science Degree. I learned how to code
-	when I was 8 after being inspired by games such as Minecraft. Now after having coded for 8 years I
-	am confident enough to charge for my work and have my method down to a science. <a
+	My name is Jax, I've been interested in coding since I was 8. I love web design and have been dreaming about making a business since before I can remember. Now that I've cultivated my skills for so many years I feel confident enough to charge for my work and help promote your business. <a
 		class="font-semibold text-primary block"
 		href="/about">ABOUT ME</a
 	>
